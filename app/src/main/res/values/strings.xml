@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">E-Skape</string>
+    <string name="card_welcome">Selamat Datang di Aplikasi E-Skape!</string>
+    <string name="add_skp">Ayo tambahkan kegiatanmu agar lebih mudah kamu pantau!</string>
+    <string name="masukan_nama_kegiatanmu">Masukan Nama Kegiatanmu</string>
+    <string name="posisi_kegiatanmu_sebagai_apa">Posisi Kegiatanmu sebagai apa?</string>
+    <string name="berapa_jumlah_poin_kegiatan">Berapa jumlah poin kegiatan?</string>
+    <string name="status_kegiatanmu">Status kegiatanmu?</string>
+    <string name="silahkan_isi_form_dibawah_dengan_benar">Silahkan isi form dibawah dengan benar</string>
+    <string name="ubah_kegiatan_yang_sudah_kamu_buat_sebelumnya">Ubah kegiatan yang sudah kamu buat sebelumnya!</string>
+</resources>
